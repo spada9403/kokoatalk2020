@@ -1,0 +1,16 @@
+.nav {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: #f9f9fa;
+  padding: 20px 50px;
+  border-top: 1px solid rgba(0, 0, 0, 0.3);
+  box-sizing: border-box;
+}
+.nav__ul {
+  display: flex;
+  justify-content: space-between;
+}
+.nav__link {
+  color: #2e363e;
+}
